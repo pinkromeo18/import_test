@@ -7,4 +7,4 @@ fn.test=(d)=>{
 
 
 
-export fn;
+export {fn};
